@@ -77,6 +77,5 @@ is a Distinguished Member of Technical Staff (DMTS) at Wipro Technologies, and c
 **Shyam Sundar**
 is a senior architect with Wipro Technologies based in Bangalore. He is part of the Emerging Technologies Architecture group within Wipro. He is responsible for helping teams adopt new and emerging technologies in their projects. He focuses primarily on the client side and cloud technologies. He is a lifelong learner who cares deeply about software craftsmanship. He is constantly experimenting with new tools and technologies to improve the development experience.
 
-## Other books by the authors
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
